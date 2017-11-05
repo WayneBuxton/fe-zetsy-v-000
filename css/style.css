@@ -72,6 +72,9 @@ header a:hover {
 	margin-bottom: 20px;
 }
 
+element.style {
+}
+
 #press img {
 	border: 5px #ccc solid;
 	padding: 1px;
