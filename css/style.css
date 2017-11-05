@@ -81,6 +81,12 @@ header a:hover {
 	border: 5px rgb(111,127,122) solid;
 }
 
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: auto;
+    text-decoration: none;
+}
+
 footer {
 	text-align: right;
 	background: #fff;
